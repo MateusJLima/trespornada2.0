@@ -1,0 +1,15 @@
+
+
+      @font-face {
+
+          font-family: 'MozillaHeadline_Expanded-Regular';
+
+          src: url('generalMozillaHeadline_Expanded-Regular.ttf');
+
+          src: url('generalMozillaHeadline_Expanded-Regular.ttf').format('truetype');
+
+          font-weight: normal;
+
+          font-style: normal;
+
+      }
